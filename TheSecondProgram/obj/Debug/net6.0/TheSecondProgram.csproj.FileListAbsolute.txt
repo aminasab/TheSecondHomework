@@ -1,0 +1,15 @@
+C:\Users\дом\source\repos\TheSecondProgram\TheSecondProgram\bin\Debug\net6.0\TheSecondProgram.exe
+C:\Users\дом\source\repos\TheSecondProgram\TheSecondProgram\bin\Debug\net6.0\TheSecondProgram.deps.json
+C:\Users\дом\source\repos\TheSecondProgram\TheSecondProgram\bin\Debug\net6.0\TheSecondProgram.runtimeconfig.json
+C:\Users\дом\source\repos\TheSecondProgram\TheSecondProgram\bin\Debug\net6.0\TheSecondProgram.dll
+C:\Users\дом\source\repos\TheSecondProgram\TheSecondProgram\bin\Debug\net6.0\TheSecondProgram.pdb
+C:\Users\дом\source\repos\TheSecondProgram\TheSecondProgram\obj\Debug\net6.0\TheSecondProgram.csproj.AssemblyReference.cache
+C:\Users\дом\source\repos\TheSecondProgram\TheSecondProgram\obj\Debug\net6.0\TheSecondProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\дом\source\repos\TheSecondProgram\TheSecondProgram\obj\Debug\net6.0\TheSecondProgram.AssemblyInfoInputs.cache
+C:\Users\дом\source\repos\TheSecondProgram\TheSecondProgram\obj\Debug\net6.0\TheSecondProgram.AssemblyInfo.cs
+C:\Users\дом\source\repos\TheSecondProgram\TheSecondProgram\obj\Debug\net6.0\TheSecondProgram.csproj.CoreCompileInputs.cache
+C:\Users\дом\source\repos\TheSecondProgram\TheSecondProgram\obj\Debug\net6.0\TheSecondProgram.dll
+C:\Users\дом\source\repos\TheSecondProgram\TheSecondProgram\obj\Debug\net6.0\refint\TheSecondProgram.dll
+C:\Users\дом\source\repos\TheSecondProgram\TheSecondProgram\obj\Debug\net6.0\TheSecondProgram.pdb
+C:\Users\дом\source\repos\TheSecondProgram\TheSecondProgram\obj\Debug\net6.0\TheSecondProgram.genruntimeconfig.cache
+C:\Users\дом\source\repos\TheSecondProgram\TheSecondProgram\obj\Debug\net6.0\ref\TheSecondProgram.dll
